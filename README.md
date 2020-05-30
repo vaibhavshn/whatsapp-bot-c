@@ -1,4 +1,4 @@
-# WhatsApp Alert Bot
+# WhatsApp Alert Bot library in C
 
 <img src="docs/img/showcase.jpg" alt="Showcase" style="height: 500px;" />
 
@@ -31,5 +31,7 @@ gcc example.c whatsapp_alert.c -lcurl
 ```
 
 
+
+This library was originally written for [OpenVenti](https://gitlab.com/iotiotdotin/open-ventilator/patient-monitoring/openpmd/-/merge_requests/22) by me.
 
 [See documentation >>](docs/Creating-the-Bot.md)
